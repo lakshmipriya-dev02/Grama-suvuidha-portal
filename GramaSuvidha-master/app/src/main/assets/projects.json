@@ -1,0 +1,128 @@
+[
+  {
+    "name_en": "Main Road Repair",
+    "name_kn": "ಮುಖ್ಯ ರಸ್ತೆ ದುರಸ್ತಿ",
+    "description_en": "This project focuses on repairing and resurfacing the main village road. The work includes fixing potholes, strengthening road edges, and improving drainage systems to prevent water accumulation. This ensures safe and smooth transportation for villagers and reduces accidents significantly.",
+    "description_kn": "ಈ ಯೋಜನೆ ಮುಖ್ಯ ಗ್ರಾಮ ರಸ್ತೆಯನ್ನು ದುರಸ್ತಿ ಮಾಡುವುದು ಮತ್ತು ಮರುಪರಿಶೋಧನೆ ಮಾಡುವುದು. ಗುಂಡಿಗಳನ್ನು ಸರಿಪಡಿಸುವುದು, ರಸ್ತೆಯ ಬದಿಗಳನ್ನು ಬಲಪಡಿಸುವುದು ಮತ್ತು ನೀರು ನಿಲ್ಲದಂತೆ ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆಯನ್ನು ಸುಧಾರಿಸುವುದು ಇದರ ಭಾಗವಾಗಿದೆ. ಇದರಿಂದ ಗ್ರಾಮಸ್ಥರಿಗೆ ಸುರಕ್ಷಿತ ಮತ್ತು ಸುಗಮ ಸಂಚಾರ ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+    "budget": "₹10,00,000",
+    "status_en": "In Progress",
+    "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 50,
+    "expected_completion": "30 June 2026",
+    "before_image": "road_before",
+    "after_image": "road_after",
+    "updates": [
+      "Work started in January",
+      "Drainage improvement completed",
+      "50% road resurfacing completed"
+    ]
+  },
+  {
+    "name_en": "Borewell Installation",
+    "name_kn": "ಬೋರ್‌ವೆಲ್ ಸ್ಥಾಪನೆ",
+    "description_en": "This project aims to provide clean and safe drinking water by installing borewells in water-scarce areas. It includes drilling, pump installation, and water testing. This helps improve health and reduce dependency on distant water sources.",
+    "description_kn": "ಈ ಯೋಜನೆಯು ನೀರಿನ ಕೊರತೆಯ ಪ್ರದೇಶಗಳಲ್ಲಿ ಬೋರ್‌ವೆಲ್ ಸ್ಥಾಪಿಸುವ ಮೂಲಕ ಶುದ್ಧ ಕುಡಿಯುವ ನೀರನ್ನು ಒದಗಿಸಲು ಉದ್ದೇಶಿಸಿದೆ. ಇದರಲ್ಲಿ ಬಾವಿ ತೋಡುವುದು, ಪಂಪ್ ಅಳವಡಿಕೆ ಮತ್ತು ನೀರಿನ ಪರೀಕ್ಷೆ ಒಳಗೊಂಡಿದೆ.",
+    "budget": "₹5,00,000",
+    "status_en": "In Progress",
+    "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 80,
+    "expected_completion": "15 May 2026",
+    "before_image": "borewell_before",
+    "after_image": "borewell_after",
+    "updates": [
+      "Site survey completed",
+      "Drilling completed",
+      "Pump installation in progress"
+    ]
+  },
+  {
+    "name_en": "Community Hall Construction",
+    "name_kn": "ಸಮುದಾಯ ಭವನ ನಿರ್ಮಾಣ",
+    "description_en": "This project involves building a community hall for meetings, social events, and cultural activities. The hall will include seating, lighting, and sanitation facilities to support village gatherings.",
+    "description_kn": "ಈ ಯೋಜನೆಯು ಗ್ರಾಮ ಸಭೆಗಳು, ಸಾಮಾಜಿಕ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಚಟುವಟಿಕೆಗಳಿಗಾಗಿ ಸಮುದಾಯ ಭವನವನ್ನು ನಿರ್ಮಿಸುವುದನ್ನು ಒಳಗೊಂಡಿದೆ.",
+    "budget": "₹15,00,000",
+    "status_en": "In Progress",
+    "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 30,
+    "expected_completion": "10 September 2026",
+    "before_image": "hall_before",
+    "after_image": "hall_after",
+    "updates": [
+      "Foundation completed",
+      "Pillar construction ongoing",
+      "Roof work pending"
+    ]
+  },
+  {
+    "name_en": "Street Light Installation",
+    "name_kn": "ರಸ್ತೆ ದೀಪ ಸ್ಥಾಪನೆ",
+    "description_en": "This project installs energy-efficient LED street lights to improve night visibility and safety. It reduces crime risk and ensures safe movement during nighttime.",
+    "description_kn": "ಈ ಯೋಜನೆ ರಾತ್ರಿ ವೇಳೆ ಸುರಕ್ಷತೆ ಮತ್ತು ದೃಶ್ಯಮಾನತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು LED ರಸ್ತೆ ದೀಪಗಳನ್ನು ಅಳವಡಿಸುತ್ತದೆ.",
+    "budget": "₹3,00,000",
+    "status_en": "Completed",
+    "status_kn": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "progress": 100,
+    "expected_completion": "Completed",
+    "before_image": "street_before",
+    "after_image": "street_after",
+    "updates": [
+      "Survey completed",
+      "Poles installed",
+      "All street lights installed successfully"
+    ]
+  },
+  {
+    "name_en": "Drainage System Upgrade",
+    "name_kn": "ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಸುಧಾರಣೆ",
+    "description_en": "This project upgrades the drainage system to prevent waterlogging during rainy seasons. It improves sanitation and reduces mosquito breeding.",
+    "description_kn": "ಈ ಯೋಜನೆ ಮಳೆಗಾಲದಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ ಮತ್ತು ಸ್ವಚ್ಛತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "budget": "₹8,00,000",
+    "status_en": "In Progress",
+    "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 60,
+    "expected_completion": "25 July 2026",
+    "before_image": "drainage_before",
+    "after_image": "drainage_after",
+    "updates": [
+      "Old drainage removed",
+      "New pipeline installation ongoing",
+      "60% work completed"
+    ]
+  },
+  {
+    "name_en": "School Renovation",
+    "name_kn": "ಶಾಲಾ ನವೀಕರಣ",
+    "description_en": "This project renovates classrooms, improves infrastructure, and provides better facilities for students. It aims to create a better learning environment.",
+    "description_kn": "ಈ ಯೋಜನೆ ಶಾಲಾ ತರಗತಿಗಳನ್ನು ನವೀಕರಿಸಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಉತ್ತಮ ಕಲಿಕಾ ವಾತಾವರಣ ಒದಗಿಸಲು ಉದ್ದೇಶಿಸಿದೆ.",
+    "budget": "₹6,00,000",
+    "status_en": "In Progress",
+    "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 40,
+    "expected_completion": "5 August 2026",
+    "before_image": "school_before",
+    "after_image": "school_after",
+    "updates": [
+      "Classroom repainting started",
+      "Furniture replacement ongoing",
+      "40% renovation completed"
+    ]
+  },
+  {
+    "name_en": "Pond Rejuvenation",
+    "name_kn": "ಕೊಳ ಪುನರುಜ್ಜೀವನ",
+    "description_en": "This project restores the village pond by cleaning, deepening, and improving water storage capacity. It helps increase groundwater levels and supports agriculture.",
+    "description_kn": "ಈ ಯೋಜನೆ ಗ್ರಾಮ ಕೊಳವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ, ಆಳವನ್ನು ಹೆಚ್ಚಿಸಿ ಮತ್ತು ನೀರಿನ ಸಂಗ್ರಹ ಸಾಮರ್ಥ್ಯವನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.",
+    "budget": "₹7,00,000",
+    "status_en": "In Progress",
+    "status_kn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 70,
+    "expected_completion": "20 June 2026",
+    "before_image": "pond_before",
+    "after_image": "pond_after",
+    "updates": [
+      "Cleaning completed",
+      "Deepening work ongoing",
+      "Water storage improved significantly"
+    ]
+  }
+]
